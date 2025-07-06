@@ -19,7 +19,7 @@
 
 <div align="center">
 
-🌍 **Based in Lebanon** 🇱🇧 | 💼 **Software Engineer** | ⚡ **Electronics Guru**
+🌍 **Based in Lebanon** 🇱🇧 | 💼 **Software Engineer** | ⚡ **Electronics Guru** | ** DIY Enthusiast **
 
 📧 **Contact:** [alishhoury78@gmail.com](mailto:alishhoury78@gmail.com)
 
